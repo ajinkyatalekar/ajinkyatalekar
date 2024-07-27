@@ -5,18 +5,12 @@
 ### Open-Source Projects
 
 <table>
-<tr><th>PyPi Packages </th><th>Misc</th></tr>
+<tr><th>PyPi Packages </th></tr>
 <tr><td>
 
 |Title | Description | Technologies|
 |--|--|--|
 | [Autovid](https://github.com/ajinkyatalekar/autovid) | Simplify and automate <br> video creation. | Python, Django, PyPi|
-
-</td><td>
-
-|Title | Description | Technologies|
-|--|--|--|
-| [Autovid](https://github.com/ajinkyatalekar/autovid) | Python package to simplify <br> and automate video creation. | Python, Django, PyPi|
 
 </td></tr> </table>
 
