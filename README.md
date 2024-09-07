@@ -1,5 +1,5 @@
 ## Ajinkya Talekar
-* I am a third year at the University at Buffalo, majoring in Computer Science with a minor in Mathematics. I love working on Software Development and Machine Learning projects.
+* I am a third-year at the University at Buffalo, majoring in Computer Science with a minor in Mathematics. I love working on Software Development and Machine Learning projects.
 * I currently work part-time as a Computer Science Teaching Assistant and Tutor at the University at Buffalo. These positions have helped me immensely in developing my communication and presentation skills.
 * I am actively seeking a Software Engineering internship where I can leverage my technical skills to make a meaningful impact on innovative projects!
 ##
