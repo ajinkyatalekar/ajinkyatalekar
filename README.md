@@ -11,7 +11,7 @@
 |Title | Description | Technologies|
 |--|--|--|
 | [Autovid](https://github.com/ajinkyatalekar/autovid) | Simplify and automate <br> video creation. | Python, Django, PyPi|
-| SwiftGesture | Gesture Recognition Pipeline for <br> training custom models quickly. | Python, Tensorflow, MediaPipe|
+| [SwiftGesture](https://github.com/ajinkyatalekar/SwiftGesture) | Gesture Recognition Pipeline for <br> training custom models quickly. | Python, Tensorflow, MediaPipe|
 | [Percolation Visualizer](https://github.com/ajinkyatalekar/percolation-visualizer) | Interactive Full Stack visualizer <br> for the percolation problem. | Java, JavaScript, HTML/CSS|
 
 </td></tr>
