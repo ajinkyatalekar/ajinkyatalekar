@@ -1,15 +1,14 @@
 ## Ajinkya Talekar
-* I am a third-year at the University at Buffalo, majoring in Computer Science with a minor in Mathematics. I love working on Software Development and Machine Learning projects.
-* I currently work part-time as a Computer Science Teaching Assistant and Tutor at the University at Buffalo. These positions have helped me immensely in developing my communication and presentation skills.
-* I am actively seeking a Software Engineering internship where I can leverage my technical skills to make a meaningful impact on innovative projects!
+* I'm an undergrad studying CS and Math at the University at Buffalo. I love working on Software Development and Machine Learning projects. Check out my portfolio to learn more! [ajinkyatalekar.github.io](https://ajinkyatalekar.github.io/)
 ##
 
 <table>
-<tr><th>Open-Source Projects</th></tr>
+<tr><th>Projects</th></tr>
 <tr><td>
 
 |Title | Description | Technologies|
 |--|--|--|
+| [Craft4Free](https://github.com/ajinkyatalekar/craft4free.online) | Full-Stack application for hosting <br> Docker containers running Minecraft <br> on the cloud. | Python, Docker, FastAPI, React,<br> AWS, PostgreSQL|
 | [Autovid](https://github.com/ajinkyatalekar/autovid) | Simplify and automate <br> video creation. | Python, Django, PyPi|
 | [SwiftGesture](https://github.com/ajinkyatalekar/SwiftGesture) | Gesture Recognition Pipeline for <br> training custom models quickly. | Python, Tensorflow, MediaPipe|
 | [Percolation Visualizer](https://github.com/ajinkyatalekar/percolation-visualizer) | Interactive Full Stack visualizer <br> for the percolation problem. | Java, JavaScript, HTML/CSS|
